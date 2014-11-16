@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentsExample</string>
+    <string name="showFragB">show Fragment B</string>
+    <string name="showFragC">Show Fragment C</string>
+</resources>
